@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bienahyube.cyberrepublic.io/sitemap.xml
